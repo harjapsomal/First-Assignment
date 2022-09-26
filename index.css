@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  margin: auto;
+  width: auto;
+  background-color: aqua;
+}
+
+#container {
+  background-color: blue;
+  height: 20px;
+  width: 150vh;
+  margin: auto;
+  padding: 40px;
+}
+header {
+  background-color: aqua;
+  height: 60px;
+  font-size: 60px;
+  text-align: center;
+  font-family: Georgia;
+}
+
+body {
+  margin-top: 150px;
+  margin-right: 50px;
+  /*  margin-block-start: 50px; */
+  background-color: blanchedalmond;
+  height: 100px;
+  font-size: larger;
+  text-align: justify;
+  font-family: "Franklin Gothic Medium";
+  color: black;
+}
+
+footer {
+  background-color: azure;
+  height: 50px;
+  text-align: center;
+}
+nav {
+  display: block;
+  background-color: blanchedalmond;
+  font-size: larger;
+  height: 40px;
+}
